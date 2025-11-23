@@ -89,20 +89,20 @@ Ce dépôt est un **aide-mémoire structuré**, un **laboratoire personnel**, et
   * Analyse financière
   * Séries temporelles simples
 
-### 📘 EDA — Analyses exploratoires
+### 📘 EDA (Exploratory Data Analysis) — Analyses exploratoires
 
-* EDA using basic functions* : `head()`, `info()`, `shape`, `describe()`
+* EDA using basic functions : `head()`, `info()`, `shape`, `describe()`
 * [Annotated follow-along guide — EDA using basic data functions](./Annotated%20follow-along%20guide_EDA%20using%20basic%20data%20functions%20with%20Python.pdf)
   
-* Discover what is in your dataset* : analyse complète, transformations, visualisations, insights
+* Discover what is in your dataset : analyse complète, transformations, visualisations, insights
 * [Exemplar — Discover what is in your dataset](./Exemplar_Discover%20what%20is%20in%20your%20dataset.pdf)
 
 ### 🕒 Datetime — Manipulation temporelle
 
-* *Datetime manipulation* : codes `strftime`, parsing, conversions
+* Datetime manipulation : codes `strftime`, parsing, conversions
 * [Reference guide — Datetime manipulation](./Reference%20guide_Datetime%20manipulation.pdf)
   
-* *Date string manipulations* : création de colonnes temporelles (week, month, quarter), regroupements, formats 
+* Date string manipulations : création de colonnes temporelles (week, month, quarter), regroupements, formats 
 * [Annotated follow-along guide — Date string manipulations](./Annotated%20follow-along%20guide_Date%20string%20manipulations%20with%20Python.pdf)
 
 ### 🧪 Découverte d’un dataset
