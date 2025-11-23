@@ -89,36 +89,31 @@ Ce dépôt est un **aide-mémoire structuré**, un **laboratoire personnel**, et
   * Analyse financière
   * Séries temporelles simples
 
----
-
-## 📂 Guides PDF — Python pour la Data Analytics
-
-### 📎 Liens directs
-
-* [Annotated follow-along guide — Date string manipulations](./Annotated%20follow-along%20guide_Date%20string%20manipulations%20with%20Python.pdf)
-* [Annotated follow-along guide — EDA using basic data functions](./Annotated%20follow-along%20guide_EDA%20using%20basic%20data%20functions%20with%20Python.pdf)
-* [Exemplar — Discover what is in your dataset](./Exemplar_Discover%20what%20is%20in%20your%20dataset.pdf)
-* [Reference guide — Datetime manipulation](./Reference%20guide_Datetime%20manipulation.pdf)
-* [Reference guide — Import datasets with Python](./Reference%20guide_Import%20datasets%20with%20Python.pdf)
-* [Reference guide — Python functions for the discovery of a dataset](./Reference%20guide_Python%20functions%20for%20the%20discovery%20of%20a%20dataset.pdf)
-
 ### 📘 EDA — Analyses exploratoires
 
-* *EDA using basic functions* : `head()`, `info()`, `shape`, `describe()`
-* *Discover what is in your dataset* : analyse complète, transformations, visualisations, insights
+* EDA using basic functions* : `head()`, `info()`, `shape`, `describe()`
+* [Annotated follow-along guide — EDA using basic data functions](./Annotated%20follow-along%20guide_EDA%20using%20basic%20data%20functions%20with%20Python.pdf)
+  
+* Discover what is in your dataset* : analyse complète, transformations, visualisations, insights
+* [Exemplar — Discover what is in your dataset](./Exemplar_Discover%20what%20is%20in%20your%20dataset.pdf)
 
 ### 🕒 Datetime — Manipulation temporelle
 
 * *Datetime manipulation* : codes `strftime`, parsing, conversions
-* *Date string manipulations* : création de colonnes temporelles (week, month, quarter), regroupements, formats
+* *[Reference guide — Datetime manipulation](./Reference%20guide_Datetime%20manipulation.pdf)
+  
+* *Date string manipulations* : création de colonnes temporelles (week, month, quarter), regroupements, formats 
+* *[Annotated follow-along guide — Date string manipulations](./Annotated%20follow-along%20guide_Date%20string%20manipulations%20with%20Python.pdf)
 
 ### 🧪 Découverte d’un dataset
 
 * *Python functions for dataset discovery* : résumé des fonctions clés (`head`, `info`, `describe`, `shape`)
+* [Reference guide — Python functions for the discovery of a dataset](./Reference%20guide_Python%20functions%20for%20the%20discovery%20of%20a%20dataset.pdf)
 
 ### 📥 Importation
 
 * *Import datasets with Python* : CSV, URLs, bases de données, BigQuery workflows
+* *[Reference guide — Import datasets with Python](./Reference%20guide_Import%20datasets%20with%20Python.pdf)
 
 ---
 
