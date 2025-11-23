@@ -1,4 +1,4 @@
-# 🐍 Python Tips – Guide personnel
+# 🐍 Python Tips
 
 Bienvenue dans **`python_tips`**, mon carnet Python regroupant :
 
