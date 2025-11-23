@@ -139,4 +139,58 @@ Ce dépôt est un **aide-mémoire structuré**, un **laboratoire personnel**, et
 
 Si tu veux contribuer, proposer une amélioration ou discuter de Python → **Pull Request ou issue bienvenue !** 🚀
 
+---
 
+## 🗂️ Documentation PDF (Version Professionnelle)
+
+Cette section regroupe l’ensemble des guides PDF présents dans le dépôt, organisés comme une documentation technique de référence.
+
+### 📁 Structure
+
+* **EDA (Exploratory Data Analysis)**
+* **Datetime & Manipulation temporelle**
+* **Exploration d’un dataset**
+* **Importation de données**
+
+### 📘 EDA — Analyses exploratoires
+
+* *Annotated follow-along guide: EDA using basic data functions with Python* — Guide commenté pas-à-pas pour découvrir un dataset, utiliser `head()`, `info()`, `shape`, faire des regroupements et graphiques.
+* *Exemplar: Discover what is in your dataset* — Exemple complet d’analyse sur un dataset Unicorns : exploration, transformation, visualisation, insights business.
+
+### 🕒 Datetime — Manipulation des dates
+
+* *Reference guide: Datetime manipulation* — Tableau complet des codes `strftime`, conversions, parsing, `timestamp`, propriétés Pandas (`dt.year`, `dt.month`, etc.).
+* *Annotated follow-along: Date string manipulations with Python* — Création automatique de colonnes temporelles, regroupements hebdomadaires, trimestriels, graphiques et formats custom.
+
+### 🧪 Découverte de dataset
+
+* *Python functions for the discovery of a dataset* — Synthèse claire des fonctions EDA essentielles : `head()`, `info()`, `describe()`, `shape`.
+
+### 📥 Importation & BigQuery
+
+* *Reference guide: Import datasets with Python* — Importation CSV (`open()`, `read()`, `pd.read_csv()`), URLs, connexions base de données, workflows BigQuery (SQL, Jupyter dans BigQuery, extraction de tables publiques).
+
+---
+
+## 📑 Tableau récapitulatif des PDF
+
+| Catégorie             | PDF                                    | Contenu principal                                                  |
+| --------------------- | -------------------------------------- | ------------------------------------------------------------------ |
+| **EDA**               | EDA using basic data functions         | Exploration initiale du dataset, opérations Pandas, visualisations |
+| **EDA**               | Discover what is in your dataset       | Analyse complète Unicorns, insights, graphiques avancés            |
+| **Datetime**          | Datetime manipulation                  | Codes datetime, conversions, parsing                               |
+| **Datetime**          | Date string manipulations              | Colonnes temporelles, regroupements, formats, visualisation        |
+| **Dataset discovery** | Python functions for dataset discovery | Fonctions EDA clés (`head`, `info`, `describe`, `shape`)           |
+| **Importation**       | Import datasets with Python            | CSV, URL, BigQuery, connexions BD                                  |
+
+---
+
+## 🧭 Objectif de cette section
+
+Créer une véritable **documentation interne** pour faciliter :
+
+* la révision rapide,
+* la maîtrise des bonnes pratiques Pandas,
+* l’analyse plus efficace de tout nouveau dataset.
+
+Toutes ces ressources s’intègrent parfaitement dans le workflow d’un Data Analyst professionnel.
