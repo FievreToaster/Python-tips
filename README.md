@@ -48,3 +48,8 @@ Ce repo est à la fois un *aide-mémoire* et un *laboratoire d’expérimentatio
 - Fonctions d’itération : `range()`, `enumerate()`, `zip()`, `map()`  
 - Fonctions de conversion : `int()`, `float()`, `list()`  
 - Fonctions système : `dir()`, `help()
+
+📄 [04 La programmation orientée objet (POO)](#4-la-programmation-orientée-objet-poo)
+📄 [05 Python pour la Data Analytics](#5-python-pour-la-data-analytics)
+📄 [06 Exemples pratiques](#6-exemples-pratiques)
+📄 [07 Ressources utiles](#7-ressources-utiles)
