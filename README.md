@@ -1,11 +1,12 @@
-# 🐍 Python Tips – Guide d’apprentissage personnel
+# 🐍 Python Tips 
 
-Bienvenue dans **`python_tips`**, mon carnet d’apprentissage Python regroupant :
+Bienvenue dans **`python_tips`**, mon carnet Python regroupant :
 
 * mes notes de formation (Google Data Analytics & Advanced Data Analytics),
+* mes projets Data,
 * mes exercices,
-* mes astuces pratiques,
-* et mes mini-projets Data.
+* mes astuces pratiques en developpement,
+
 
 Ce dépôt est un **aide-mémoire structuré**, un **laboratoire personnel**, et une **boîte à outils** pour progresser en Python.
 
