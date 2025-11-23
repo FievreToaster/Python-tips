@@ -141,7 +141,20 @@ Si tu veux contribuer, proposer une amélioration ou discuter de Python → **Pu
 
 ---
 
-## 🗂️ Documentation PDF (Version Professionnelle)
+## 🗂️ Documentation PDF
+
+### 📎 Liens directs vers les PDF
+
+* [Annotated follow-along guide — Date string manipulations](./Annotated%20follow-along%20guide_Date%20string%20manipulations%20with%20Python.pdf)
+* [Annotated follow-along guide — EDA using basic data functions](./Annotated%20follow-along%20guide_EDA%20using%20basic%20data%20functions%20with%20Python.pdf)
+* [Exemplar — Discover what is in your dataset](./Exemplar_Discover%20what%20is%20in%20your%20dataset.pdf)
+* [Reference guide — Datetime manipulation](./Reference%20guide_Datetime%20manipulation.pdf)
+* [Reference guide — Import datasets with Python](./Reference%20guide_Import%20datasets%20with%20Python.pdf)
+* [Reference guide — Python functions for the discovery of a dataset](./Reference%20guide_Python%20functions%20for%20the%20discovery%20of%20a%20dataset.pdf)
+
+---
+
+## 🗂️ Documentation PDF (Version Professionnelle) (Version Professionnelle)
 
 Cette section regroupe l’ensemble des guides PDF présents dans le dépôt, organisés comme une documentation technique de référence.
 
