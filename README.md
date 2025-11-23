@@ -100,10 +100,10 @@ Ce dépôt est un **aide-mémoire structuré**, un **laboratoire personnel**, et
 ### 🕒 Datetime — Manipulation temporelle
 
 * *Datetime manipulation* : codes `strftime`, parsing, conversions
-* *[Reference guide — Datetime manipulation](./Reference%20guide_Datetime%20manipulation.pdf)
+* [Reference guide — Datetime manipulation](./Reference%20guide_Datetime%20manipulation.pdf)
   
 * *Date string manipulations* : création de colonnes temporelles (week, month, quarter), regroupements, formats 
-* *[Annotated follow-along guide — Date string manipulations](./Annotated%20follow-along%20guide_Date%20string%20manipulations%20with%20Python.pdf)
+* [Annotated follow-along guide — Date string manipulations](./Annotated%20follow-along%20guide_Date%20string%20manipulations%20with%20Python.pdf)
 
 ### 🧪 Découverte d’un dataset
 
@@ -113,7 +113,7 @@ Ce dépôt est un **aide-mémoire structuré**, un **laboratoire personnel**, et
 ### 📥 Importation
 
 * *Import datasets with Python* : CSV, URLs, bases de données, BigQuery workflows
-* *[Reference guide — Import datasets with Python](./Reference%20guide_Import%20datasets%20with%20Python.pdf)
+* [Reference guide — Import datasets with Python](./Reference%20guide_Import%20datasets%20with%20Python.pdf)
 
 ---
 
